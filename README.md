@@ -11,6 +11,16 @@ A mini application for sales data management and product status prediction (**Be
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](assets/login_page.png)
+
+### Dashboard Overview
+![Dashboard](assets/dashboard.png)
+
+---
+
 ## ⚙️ Initial Setup (One-time Setup)
 
 ### 1. Backend Setup
